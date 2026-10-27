@@ -5,8 +5,6 @@
 
 DPhotos sử dụng **Bootstrap 5.3** làm CSS framework chính.
 
-> **Không sử dụng đồng thời Bootstrap và Tailwind CSS.**
-
 #### Lý do lựa chọn
 
 - Template ASP.NET Core MVC có sẵn Bootstrap, Razor và Tag Helper có thể sử dụng trực tiếp.
